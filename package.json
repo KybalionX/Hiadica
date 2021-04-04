@@ -1,0 +1,18 @@
+{
+  "name": "hiadica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.0.10",
+    "body-parser": "^1.19.0",
+    "morgan": "^1.10.0",
+    "popup-tools": "^1.0.2",
+    "popups": "^1.1.3"
+  }
+}
